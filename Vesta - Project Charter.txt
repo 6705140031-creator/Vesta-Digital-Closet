@@ -1,0 +1,42 @@
+Vesta - Project Charter
+
+Project Name
+
+Vesta
+
+Team Members
+
+Min Thu Kha - 6705140031
+Phone Pyae - 6705140070
+
+Project Description
+
+Vesta is an AI-powered digital wardrobe application designed to help users organize their clothing and create suitable outfit combinations.
+
+Problem Statement
+
+Users often have many clothes but struggle to decide what to wear. They may also have difficulty matching colors, styles, occasions, and weather conditions.
+
+Project Goal
+
+The goal of Vesta is to provide personalized outfit recommendations using clothing that users already own.
+
+Target Users
+
+University students
+Young adults
+People interested in fashion
+Users who want help choosing daily outfits
+
+MVP Features
+
+1. Digital Closet
+2. AI Outfit Recommendation
+3. Occasion and Style Selection
+4. Weather-Based Outfit
+5. Save Favorite Outfits
+6. Outfit History
+
+Success Criteria
+
+Vesta should allow users to upload and organize their clothing, generate suitable outfit recommendations, save favorite outfits, and review their outfit history.

@@ -1,0 +1,48 @@
+Vesta - Requirements Specification
+
+ 1. Project Overview
+
+Vesta is an AI-powered digital wardrobe application that helps users
+organize their clothes and receive personalized outfit recommendations.
+
+ 2. Functional Requirements
+
+ FR-01 Digital Closet
+- Users can upload photos of their clothes.
+- Users can categorize clothes into shirts, pants, shoes, jackets,
+  and accessories.
+- Users can view all clothing items in their digital closet.
+
+ FR-02 AI Outfit Recommendation
+- Vesta can recommend outfits using clothes owned by the user.
+- The system considers colors, clothing types, and styles.
+- Users can generate new outfit recommendations.
+
+ FR-03 Occasion and Style Selection
+- Users can select an occasion:
+  - University
+  - Casual
+  - Work
+  - Party
+  - Formal
+- Users can select a preferred style:
+  - Simple
+  - Streetwear
+  - Formal
+- Vesta recommends an outfit based on these selections.
+
+ FR-04 Weather-Based Outfit
+- Users can enter or select the current weather condition.
+- Vesta recommends weather-appropriate clothing.
+- The system should avoid inappropriate recommendations for hot,
+  rainy, or cold weather.
+
+ FR-05 Favorite Outfits
+- Users can save recommended outfits.
+- Users can view saved outfits.
+- Users can reuse saved outfit combinations.
+
+ FR-06 Outfit History
+- Users can view previously generated outfits.
+- Users can record outfits that have already been worn.
+- The system helps users discover different combinations.
